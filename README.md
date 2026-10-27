@@ -1,6 +1,6 @@
 # Classes I took at UCLA
 
-## CS
+## Computer Science
 
 * COM SCI 111: Operating Systems Principles
 * COM SCI 118: Computer Network Fundamentals
@@ -25,7 +25,7 @@
 * MATH 170S: Statistics
 * MATH 180: Graph Theory
 
-## Stats
+## Statistics
 
 * STATS 100A: Introduction to Probability
 
