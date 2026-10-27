@@ -36,8 +36,8 @@
 * COM SCI 33: Introduction to Computer Organization
 * COM SCI 35L: Software Construction
 * COM SCI M51A: Logic Design of Digital Systems
-* MATH 32A: Calculus of Several Variables
-* MATH 32B: Calculus of Several Variables
+* MATH 32A: Calculus of Several Variables (Differentiation)
+* MATH 32B: Calculus of Several Variables (Integration)
 * MATH 33A: Linear Algebra and Applications
 * MATH 33B: Differential Equations
 * MATH 61: Introduction to Discrete Structures
