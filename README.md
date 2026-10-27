@@ -11,7 +11,7 @@
 * COM SCI 162: Natural Language Processing
 * COM SCI 163: Deep Learning for Computer Vision
 * COM SCI 180: Introduction to Algorithms and Complexity
-* COM SCI 188 (Spring 2026): AI-Human Interaction
+* COM SCI 188 (Spring 2026): Human-AI Interaction
 
 ## Electrical and Computer Engineering
 
