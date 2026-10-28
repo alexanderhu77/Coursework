@@ -50,7 +50,7 @@
 ## General Education and Seminars
 
 * COM SCI 1: Freshman Computer Science Seminar
-* HIST 3A: Introduction to History of Science: Renaissance to 1800
 * EDUC 10: Introduction to Educational Issues and Scholarship
+* HIST 3A: Introduction to History of Science: Renaissance to 1800
 * SCAND 50: Introduction to Scandinavian Literature and Culture
 * SCAND 60: Introduction to Nordic Cinema
