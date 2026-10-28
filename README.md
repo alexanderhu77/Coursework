@@ -45,7 +45,7 @@
 * STATS 20: Introduction to Statistical Programming with R
 * PHYSICS 1B: Oscillations, Waves, Electric and Magnetic Fields
 * PHYSICS 1C: Electrodynamics, Optics, and Special Relativity
-* PHYSICS 4AL: Physics Laboratory: Mechanics
+* PHYSICS 4AL: Physics Laboratory - Mechanics
 
 ## General Education and Seminars
 
