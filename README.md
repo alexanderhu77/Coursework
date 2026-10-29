@@ -22,7 +22,7 @@
 * MATH 110A: Algebra (Ring Theory)
 * MATH 115A: Linear Algebra (Abstract Linear Algebra)
 * MATH 131A: Analysis (Real Analysis)
-* MATH 170S: Statistics
+* MATH 170S: Probability & Statistics II (Mathematical Statistics)
 * MATH 180: Graph Theory
 
 ## Statistics
